@@ -1,0 +1,46 @@
+{
+  "prod": [
+    {
+      "id": "1",
+      "text": "jaba",
+      "url": "https://avatars.mds.yandex.net/i?id=0d931d386ba57f847b7362105fabc7ae_sr-4552023-images-thumbs&n=13",
+      "cost": "24",
+      "num": "34"
+    },
+    {
+        "id": "2",
+        "text": "coco",
+        "url": "https://avatars.mds.yandex.net/i?id=a9532ea44646e334140bca3b42c48a17-3370318-images-thumbs&n=13",
+        "cost": "35",
+        "num": "92"
+    },
+    {
+        "id": "3",
+        "text": "vertus",
+        "url": "https://avatars.mds.yandex.net/i?id=7ded2bd6db02c4ffbab616a07edb66fa_sr-9182192-images-thumbs&n=13",
+        "cost": "27",
+        "num": "49"
+    },
+    {
+        "id": "4",
+        "text": "loren",
+        "url": "https://avatars.mds.yandex.net/i?id=0ffcfc1524d6df5ec8c790788aba2ec7_sr-8178526-images-thumbs&n=13",
+        "cost": "93",
+        "num": "38"
+    },
+    {
+        "id": "5",
+        "text": "nergab",
+        "url": "https://avatars.mds.yandex.net/i?id=20a9b5a1049ba11063d0f667b0bb2e14_sr-4034191-images-thumbs&n=13",
+        "cost": "27",
+        "num": "27"
+    },
+    {
+        "id": "6",
+        "text": "selet",
+        "url": "https://avatars.mds.yandex.net/i?id=7957407053281ff7d58482d3ebcb3b85_sr-7053604-images-thumbs&n=13",
+        "cost": "81",
+        "num": "18"
+    }
+  ]
+}

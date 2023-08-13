@@ -1,0 +1,17 @@
+{
+  "name": "dz16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "dev": "concurrently \"json-server -w db.json -s /\" \"open-cli http://localhost:3000\"",
+    "start": "json-server db.json"
+  },
+  "author": "VladAnitI",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.0",
+    "json-server": "^0.17.3",
+    "open-cli": "^7.2.0"
+  }
+}
